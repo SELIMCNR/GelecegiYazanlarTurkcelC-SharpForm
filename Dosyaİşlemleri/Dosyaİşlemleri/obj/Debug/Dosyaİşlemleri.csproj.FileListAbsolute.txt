@@ -1,0 +1,11 @@
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\Dosyaİşlemleri\Dosyaİşlemleri\bin\Debug\Dosyaİşlemleri.exe.config
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\Dosyaİşlemleri\Dosyaİşlemleri\bin\Debug\Dosyaİşlemleri.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\Dosyaİşlemleri\Dosyaİşlemleri\bin\Debug\Dosyaİşlemleri.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\Dosyaİşlemleri\Dosyaİşlemleri\obj\Debug\Dosyaİşlemleri.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\Dosyaİşlemleri\Dosyaİşlemleri\obj\Debug\Dosyaİşlemleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\Dosyaİşlemleri\Dosyaİşlemleri\obj\Debug\Dosyaİşlemleri.Btnkonumsec.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\Dosyaİşlemleri\Dosyaİşlemleri\obj\Debug\Dosyaİşlemleri.Properties.Resources.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\Dosyaİşlemleri\Dosyaİşlemleri\obj\Debug\Dosyaİşlemleri.csproj.GenerateResource.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\Dosyaİşlemleri\Dosyaİşlemleri\obj\Debug\Dosyaİşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\Dosyaİşlemleri\Dosyaİşlemleri\obj\Debug\Dosyaİşlemleri.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\Dosyaİşlemleri\Dosyaİşlemleri\obj\Debug\Dosyaİşlemleri.pdb
