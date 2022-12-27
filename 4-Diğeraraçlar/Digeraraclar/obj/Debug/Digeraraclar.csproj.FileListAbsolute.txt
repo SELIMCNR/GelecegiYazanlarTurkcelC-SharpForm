@@ -1,0 +1,12 @@
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\4-Diğeraraçlar\Digeraraclar\bin\Debug\Digeraraclar.exe.config
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\4-Diğeraraçlar\Digeraraclar\bin\Debug\Digeraraclar.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\4-Diğeraraçlar\Digeraraclar\bin\Debug\Digeraraclar.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\4-Diğeraraçlar\Digeraraclar\obj\Debug\Digeraraclar.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\4-Diğeraraçlar\Digeraraclar\obj\Debug\Digeraraclar.csproj.SuggestedBindingRedirects.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\4-Diğeraraçlar\Digeraraclar\obj\Debug\Digeraraclar.Form1.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\4-Diğeraraçlar\Digeraraclar\obj\Debug\Digeraraclar.Properties.Resources.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\4-Diğeraraçlar\Digeraraclar\obj\Debug\Digeraraclar.csproj.GenerateResource.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\4-Diğeraraçlar\Digeraraclar\obj\Debug\Digeraraclar.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\4-Diğeraraçlar\Digeraraclar\obj\Debug\Digeraraclar.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\4-Diğeraraçlar\Digeraraclar\obj\Debug\Digeraraclar.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\4-Diğeraraçlar\Digeraraclar\obj\Debug\Digeraraclar.Form2.resources
