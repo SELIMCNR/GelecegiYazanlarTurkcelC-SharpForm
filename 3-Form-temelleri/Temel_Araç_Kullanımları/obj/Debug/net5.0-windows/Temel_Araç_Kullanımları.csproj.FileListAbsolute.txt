@@ -1,0 +1,39 @@
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\bin\Debug\net5.0-windows\Temel_Araç_Kullanımları.exe
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\bin\Debug\net5.0-windows\Temel_Araç_Kullanımları.deps.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\bin\Debug\net5.0-windows\Temel_Araç_Kullanımları.runtimeconfig.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\bin\Debug\net5.0-windows\Temel_Araç_Kullanımları.runtimeconfig.dev.json
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\bin\Debug\net5.0-windows\Temel_Araç_Kullanımları.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\bin\Debug\net5.0-windows\Temel_Araç_Kullanımları.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.csproj.AssemblyReference.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.Form1.resources
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.csproj.GenerateResource.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.AssemblyInfoInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.AssemblyInfo.cs
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.csproj.CoreCompileInputs.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\refint\Temel_Araç_Kullanımları.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.pdb
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.genruntimeconfig.cache
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\ref\Temel_Araç_Kullanımları.dll
+C:\Users\SelimCinar\Desktop\dersler\YazılımGelistirici\YazılımGeliştrime\Nesne Tabanlı Programlama\C#-Form\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.Properties.Resources.resources
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\bin\Debug\net5.0-windows\Temel_Araç_Kullanımları.exe
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\bin\Debug\net5.0-windows\Temel_Araç_Kullanımları.deps.json
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\bin\Debug\net5.0-windows\Temel_Araç_Kullanımları.runtimeconfig.json
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\bin\Debug\net5.0-windows\Temel_Araç_Kullanımları.runtimeconfig.dev.json
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\bin\Debug\net5.0-windows\Temel_Araç_Kullanımları.dll
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\bin\Debug\net5.0-windows\Temel_Araç_Kullanımları.pdb
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.csproj.AssemblyReference.cache
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.Form1.resources
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.Form2.resources
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.Properties.Resources.resources
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.csproj.GenerateResource.cache
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.AssemblyInfoInputs.cache
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.AssemblyInfo.cs
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.csproj.CoreCompileInputs.cache
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.dll
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\refint\Temel_Araç_Kullanımları.dll
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.pdb
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\Temel_Araç_Kullanımları.genruntimeconfig.cache
+F:\Dersler\Yazılım geliştirme\C#-Form\C#-form101\3-Form-temelleri\Temel_Araç_Kullanımları\obj\Debug\net5.0-windows\ref\Temel_Araç_Kullanımları.dll
